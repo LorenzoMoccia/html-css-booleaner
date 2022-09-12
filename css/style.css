@@ -1,4 +1,4 @@
-.footer{
+.header{
     height: 180px;
     background-color: #4EA0FF;
     background-image: url(../img/pattern.png);
@@ -28,6 +28,3 @@ h4{
     color: #808080;
 }
 
-ul{
-    margin-left: 0;
-}
