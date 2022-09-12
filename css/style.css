@@ -14,7 +14,7 @@ h1{
     margin-bottom: 0px;
 }
 
-h4{
+h4, h3{
     display: inline-block;
     margin: auto;
     color: #808080;
@@ -28,3 +28,33 @@ h4{
     color: #808080;
 }
 
+ul{
+    padding: 10px;
+}
+
+th{
+    background-color: #20A9E5;
+    width: 300px;
+    text-align: left;
+    color: white;
+}
+
+.table-row{
+    background-color: #B1E5F2;
+}
+
+.articolo{
+    width: 300px;
+    height: 230px;
+    background-image: url(../img/monitor.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+
+#articolo-2{
+    background-image: url(../img/graph.jpg);
+}
+#titolo-articolo{
+    color: white;
+}
