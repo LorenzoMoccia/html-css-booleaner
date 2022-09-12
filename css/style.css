@@ -1,0 +1,29 @@
+.footer{
+    height: 180px;
+    background-color: #4EA0FF;
+    background-image: url(../img/pattern.png);
+    background-size: auto;
+}
+
+#logo{
+    width: 290px;
+    height: 73px;
+}
+
+h1{
+    margin-bottom: 0px;
+}
+
+h4{
+    display: inline-block;
+    margin: auto;
+    color: #808080;
+}
+
+#booleaner{
+    color: #20A9E5;
+}
+
+#data{
+    color: #808080;
+}
