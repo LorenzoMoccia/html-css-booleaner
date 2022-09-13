@@ -59,3 +59,7 @@ th{
 #titolo-articolo{
     color: white;
 }
+
+table{
+    border-collapse: collapse;
+}
